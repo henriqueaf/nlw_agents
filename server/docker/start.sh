@@ -12,8 +12,8 @@ echo "Running database migrations..."
 npm run db:migrate
 
 # Seed the database
-echo "Seeding the database..."
-npm run db:seed
+# echo "Seeding the database..."
+# npm run db:seed
 
 # Starts drizzle-kit studio
 echo "Starting drizzle-kit studio, available at port https://local.drizzle.studio..."
